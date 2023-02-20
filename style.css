@@ -1,0 +1,63 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    background-color: lightgray;
+  }
+  
+li {
+    float: left;
+      border-right: 1px solid blue;
+  }
+  
+  li a {
+    display: block;
+    color: blue;
+   font-size:20px;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
+
+  #container{
+    display: flex;
+    border-style: double;
+
+  }
+
+
+  
+  #text {
+    font-size: 20px;
+    padding-left: 50px;
+  }
+
+  #container{
+    background-color:lightcoral;
+  }
+
+  #pro{
+    background-color:lightcoral;
+  }
+
+  #contact{
+    background-color: lightcoral;
+  }
+
+  #page{
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  body{
+    background-image:url('back.avif') ;
+  }
+
+  h3{
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  p{
+    font-style: italic;
+  }
